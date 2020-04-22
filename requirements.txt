@@ -1,4 +1,4 @@
-flake8
+flake8==3.7.9
 pre-commit
 pytest
 pytest-cov
